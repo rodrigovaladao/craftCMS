@@ -1,0 +1,46 @@
+dateApplied: '2023-03-09 11:54:22'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678326654
+        to: 1678326862
+  -
+    added:
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.defaultPlacement: end
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.autocapitalize: true
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.autocomplete: false
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.autocorrect: true
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.class: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.disabled: false
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.id: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.instructions: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.label: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.max: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.min: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.name: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.orientation: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.placeholder: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.readonly: false
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.requirable: false
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.size: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.step: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.tip: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.title: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.type: craft\fieldlayoutelements\TitleField
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.warning: null
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.elements.0.width: 100
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.name: Content
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.fieldLayouts.3f9b012b-084a-4273-a73e-3081e1d0db40.tabs.0.sortOrder: 1
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.handle: blogCategories
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.name: 'Blog Categories'
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.siteSettings.20d47ea2-78fe-4b35-ae01-6068e35ecfc9.hasUrls: true
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.siteSettings.20d47ea2-78fe-4b35-ae01-6068e35ecfc9.template: blog/_category
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.siteSettings.20d47ea2-78fe-4b35-ae01-6068e35ecfc9.uriFormat: 'blog/category/{slug}'
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.structure.maxLevels: 1
+      categoryGroups.9ec86163-c94d-47a8-a753-973671928494.structure.uid: 02021a87-885a-4e8e-8242-c64095bcd5ef
+    message: 'Save category group “blogCategories”'
+  -
+    added:
+      meta.__names__.9ec86163-c94d-47a8-a753-973671928494: 'Blog Categories'

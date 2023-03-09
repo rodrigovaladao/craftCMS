@@ -1,0 +1,14 @@
+dateApplied: '2023-03-09 11:56:09'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678326862
+        to: 1678326969
+  -
+    added:
+      plugins.redactor.edition: standard
+      plugins.redactor.enabled: true
+      plugins.redactor.schemaVersion: 2.3.0
+    message: 'Install plugin “redactor”'

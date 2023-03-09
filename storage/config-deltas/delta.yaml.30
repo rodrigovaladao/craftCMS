@@ -1,0 +1,19 @@
+dateApplied: '2023-03-09 11:29:23'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678325349
+        to: 1678325363
+  -
+    message: 'Save the “Fazer as Malas” site group'
+    changed:
+      siteGroups.1a684aff-7b41-4c95-a7f0-67e30d54a9c3.name:
+        from: 'Pack Your Bags'
+        to: 'Fazer as Malas'
+  -
+    changed:
+      meta.__names__.1a684aff-7b41-4c95-a7f0-67e30d54a9c3:
+        from: 'Pack Your Bags'
+        to: 'Fazer as Malas'

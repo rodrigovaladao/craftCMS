@@ -1,0 +1,32 @@
+dateApplied: '2023-03-09 11:59:56'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678327107
+        to: 1678327196
+  -
+    added:
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.columnSuffix: vdbuejbx
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.contentColumnType: text
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.fieldGroup: 31b7d607-d3b0-466d-9a71-a7a1d5ae8807
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.handle: summary
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.instructions: 'Enter a brief, one or two sentence post summary'
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.name: Summary
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.searchable: false
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.byteLimit: null
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.charLimit: null
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.code: ''
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.columnType: null
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.initialRows: '1'
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.multiline: '1'
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.placeholder: null
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.settings.uiMode: normal
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.translationKeyFormat: null
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.translationMethod: none
+      fields.24d2c656-13cc-4635-9977-7a4c8cdfb625.type: craft\fields\PlainText
+    message: 'Save field “summary”'
+  -
+    added:
+      meta.__names__.24d2c656-13cc-4635-9977-7a4c8cdfb625: Summary

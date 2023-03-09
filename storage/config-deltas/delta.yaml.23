@@ -1,0 +1,32 @@
+dateApplied: '2023-03-09 11:58:27'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678326969
+        to: 1678327107
+  -
+    added:
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.columnSuffix: dwxkrerh
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.contentColumnType: text
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.fieldGroup: 31b7d607-d3b0-466d-9a71-a7a1d5ae8807
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.handle: blogPostFields
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.instructions: ''
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.name: 'Blog Post Fields'
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.searchable: false
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.byteLimit: null
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.charLimit: null
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.code: ''
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.columnType: null
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.initialRows: '4'
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.multiline: ''
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.placeholder: null
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.settings.uiMode: normal
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.translationKeyFormat: null
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.translationMethod: none
+      fields.e65f79b1-769d-43b7-a0b6-7907794782b8.type: craft\fields\PlainText
+    message: 'Save field “blogPostFields”'
+  -
+    added:
+      meta.__names__.e65f79b1-769d-43b7-a0b6-7907794782b8: 'Blog Post Fields'

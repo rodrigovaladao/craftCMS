@@ -1,0 +1,66 @@
+dateApplied: '2023-03-09 12:10:06'
+changes:
+  -
+    message: 'Save matrix block type “text” for parent field “postContent”'
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678327711
+        to: 1678327806
+  -
+    added:
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.field: 28efb222-5181-4e37-a36a-74f7125a7ddd
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.fieldUid: 165be0bd-a579-4ee2-a66e-315d52b28c49
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.instructions: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.label: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.required: true
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.tip: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.type: craft\fieldlayoutelements\CustomField
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.warning: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.elements.0.width: 100
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.name: Content
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fieldLayouts.6ebdeee8-e872-42ea-a632-4fc186c47afa.tabs.0.sortOrder: 1
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.columnSuffix: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.contentColumnType: string
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.fieldGroup: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.handle: image
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.instructions: ''
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.name: Image
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.searchable: false
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.allowSelfRelations: false
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.allowUploads: true
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.allowedKinds.0: image
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.defaultUploadLocationSource: 'volume:30bbe58d-8143-44de-9280-5c9157e9fb32'
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.defaultUploadLocationSubpath: ''
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.limit: ''
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.localizeRelations: false
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.previewMode: full
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.restrictFiles: '1'
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.selectionLabel: ''
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.showSiteMenu: false
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.showUnpermittedFiles: false
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.showUnpermittedVolumes: false
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.singleUploadLocationSource: 'volume:30bbe58d-8143-44de-9280-5c9157e9fb32'
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.singleUploadLocationSubpath: ''
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.source: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.sources: '*'
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.targetSiteId: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.useSingleFolder: true
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.validateRelatedElements: false
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.settings.viewMode: list
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.translationKeyFormat: null
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.translationMethod: site
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.fields.165be0bd-a579-4ee2-a66e-315d52b28c49.type: craft\fields\Assets
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.handle: image
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.name: Image
+      matrixBlockTypes.c53532b1-6224-4fa7-9a6d-069f3715cf4d.sortOrder: 2
+    message: 'Save matrix block type “image” for parent field “postContent”'
+  -
+    message: 'Save field “postContent”'
+  -
+    added:
+      meta.__names__.c53532b1-6224-4fa7-9a6d-069f3715cf4d: Image
+  -
+    added:
+      meta.__names__.165be0bd-a579-4ee2-a66e-315d52b28c49: Image
