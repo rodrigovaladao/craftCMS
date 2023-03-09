@@ -1,0 +1,49 @@
+dateModified: 1678352219
+email:
+  fromEmail: rodrigomarciosv@gmail.com
+  fromName: 'Pack Your Bags'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1a684aff-7b41-4c95-a7f0-67e30d54a9c3: 'Fazer as Malas' # Fazer as Malas
+    4c3630ee-4b59-417c-9c46-9f587ac243d6: 'Global Fields' # Global Fields
+    9ec86163-c94d-47a8-a753-973671928494: 'Blog Categories' # Blog Categories
+    9fc2cd0b-eb43-4d25-bdb6-21f01094731a: Text # Text
+    20d47ea2-78fe-4b35-ae01-6068e35ecfc9: 'Fazer as Malas' # Fazer as Malas
+    28efb222-5181-4e37-a36a-74f7125a7ddd: 'Post Content' # Post Content
+    30bbe58d-8143-44de-9280-5c9157e9fb32: Blog # Blog
+    31b7d607-d3b0-466d-9a71-a7a1d5ae8807: Common # Common
+    52e80967-1170-4b4c-88f7-a3f59f615d29: Blog # Blog
+    057b0266-c8ee-44e1-93a4-e6ac7f9ed4c1: 'Site Information' # Site Information
+    68d5ca58-70ef-4ea5-8492-d9fcd32e69df: Blog # Blog
+    78f52112-886d-4d21-94ea-be3eaa13aa74: Text # Text
+    165be0bd-a579-4ee2-a66e-315d52b28c49: Image # Image
+    33111fe8-75a3-4377-8667-2f5db8204406: 'About Image' # About Image
+    98294c22-4c55-4ee8-b292-72093be3dd4e: About # About
+    63447928-2142-4dfb-8c79-dfa3b2c34376: 'Site Description' # Site Description
+    a790ad74-dcaf-4181-9c9b-618164be689c: 'Blog Post Fields' # Blog Post Fields
+    a8789474-c922-49b9-8341-17c168a452d5: 'Feature Image' # Feature Image
+    c5e212a9-f4d1-4ec1-9b96-3e020cad401b: Summary # Summary
+    c53532b1-6224-4fa7-9a6d-069f3715cf4d: Image # Image
+    c2630351-2295-43a0-aedc-6c195840c330: 'Post Categories' # Post Categories
+    d12bb90e-6f45-468d-8c9c-4c6826279819: General # General
+    d89e587e-546b-4b2c-be31-9533aa6e00c4: 'Singles Fields' # Singles Fields
+    d12586f9-1835-4769-8510-0fa65ccac7af: About # About
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: 'Fazer as Malas'
+  retryDuration: null
+  schemaVersion: 3.8.0.1
+  timeZone: Australia/Brisbane
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

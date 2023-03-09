@@ -1,0 +1,55 @@
+field: 28efb222-5181-4e37-a36a-74f7125a7ddd # Post Content
+fieldLayouts:
+  6ebdeee8-e872-42ea-a632-4fc186c47afa:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 165be0bd-a579-4ee2-a66e-315d52b28c49 # Image
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  165be0bd-a579-4ee2-a66e-315d52b28c49: # Image
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: image
+    instructions: ''
+    name: Image
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      allowUploads: true
+      allowedKinds:
+        - image
+      defaultUploadLocationSource: 'volume:30bbe58d-8143-44de-9280-5c9157e9fb32' # Blog
+      defaultUploadLocationSubpath: ''
+      limit: ''
+      localizeRelations: false
+      previewMode: full
+      restrictFiles: '1'
+      selectionLabel: ''
+      showSiteMenu: false
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      singleUploadLocationSource: 'volume:30bbe58d-8143-44de-9280-5c9157e9fb32' # Blog
+      singleUploadLocationSubpath: ''
+      source: null
+      sources: '*'
+      targetSiteId: null
+      useSingleFolder: true
+      validateRelatedElements: false
+      viewMode: list
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+handle: image
+name: Image
+sortOrder: 2
