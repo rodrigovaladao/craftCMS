@@ -1,0 +1,14 @@
+dateApplied: '2023-03-08 16:48:42'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678320430
+        to: 1678322922
+  -
+    message: 'Update Craft schema version'
+    changed:
+      system.schemaVersion:
+        from: 3.7.33
+        to: 3.8.0.1

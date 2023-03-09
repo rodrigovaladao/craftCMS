@@ -1,0 +1,37 @@
+dateApplied: '2023-03-09 12:05:48'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678327514
+        to: 1678327548
+  -
+    added:
+      fields.c2630351-2295-43a0-aedc-6c195840c330.columnSuffix: null
+      fields.c2630351-2295-43a0-aedc-6c195840c330.contentColumnType: string
+      fields.c2630351-2295-43a0-aedc-6c195840c330.fieldGroup: a790ad74-dcaf-4181-9c9b-618164be689c
+      fields.c2630351-2295-43a0-aedc-6c195840c330.handle: postCategories
+      fields.c2630351-2295-43a0-aedc-6c195840c330.instructions: ''
+      fields.c2630351-2295-43a0-aedc-6c195840c330.name: 'Post Categories'
+      fields.c2630351-2295-43a0-aedc-6c195840c330.searchable: false
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.allowLimit: false
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.allowMultipleSources: false
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.allowSelfRelations: false
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.branchLimit: ''
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.limit: null
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.localizeRelations: false
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.selectionLabel: ''
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.showSiteMenu: false
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.source: 'group:9ec86163-c94d-47a8-a753-973671928494'
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.sources: '*'
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.targetSiteId: null
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.validateRelatedElements: false
+      fields.c2630351-2295-43a0-aedc-6c195840c330.settings.viewMode: null
+      fields.c2630351-2295-43a0-aedc-6c195840c330.translationKeyFormat: null
+      fields.c2630351-2295-43a0-aedc-6c195840c330.translationMethod: site
+      fields.c2630351-2295-43a0-aedc-6c195840c330.type: craft\fields\Categories
+    message: 'Save field “postCategories”'
+  -
+    added:
+      meta.__names__.c2630351-2295-43a0-aedc-6c195840c330: 'Post Categories'

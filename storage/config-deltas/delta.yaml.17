@@ -1,0 +1,45 @@
+dateApplied: '2023-03-09 12:05:14'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678327300
+        to: 1678327514
+  -
+    added:
+      fields.a8789474-c922-49b9-8341-17c168a452d5.columnSuffix: null
+      fields.a8789474-c922-49b9-8341-17c168a452d5.contentColumnType: string
+      fields.a8789474-c922-49b9-8341-17c168a452d5.fieldGroup: a790ad74-dcaf-4181-9c9b-618164be689c
+      fields.a8789474-c922-49b9-8341-17c168a452d5.handle: featureImage
+      fields.a8789474-c922-49b9-8341-17c168a452d5.instructions: ''
+      fields.a8789474-c922-49b9-8341-17c168a452d5.name: 'Feature Image'
+      fields.a8789474-c922-49b9-8341-17c168a452d5.searchable: false
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.allowSelfRelations: false
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.allowUploads: true
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.allowedKinds.0: image
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.defaultUploadLocationSource: 'volume:30bbe58d-8143-44de-9280-5c9157e9fb32'
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.defaultUploadLocationSubpath: ''
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.limit: '1'
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.localizeRelations: false
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.previewMode: full
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.restrictFiles: '1'
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.selectionLabel: ''
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.showSiteMenu: false
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.showUnpermittedFiles: false
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.showUnpermittedVolumes: false
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.singleUploadLocationSource: 'volume:30bbe58d-8143-44de-9280-5c9157e9fb32'
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.singleUploadLocationSubpath: ''
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.source: null
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.sources: '*'
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.targetSiteId: null
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.useSingleFolder: true
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.validateRelatedElements: false
+      fields.a8789474-c922-49b9-8341-17c168a452d5.settings.viewMode: list
+      fields.a8789474-c922-49b9-8341-17c168a452d5.translationKeyFormat: null
+      fields.a8789474-c922-49b9-8341-17c168a452d5.translationMethod: site
+      fields.a8789474-c922-49b9-8341-17c168a452d5.type: craft\fields\Assets
+    message: 'Save field “featureImage”'
+  -
+    added:
+      meta.__names__.a8789474-c922-49b9-8341-17c168a452d5: 'Feature Image'

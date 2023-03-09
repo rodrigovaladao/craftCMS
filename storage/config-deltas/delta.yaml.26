@@ -1,0 +1,47 @@
+dateApplied: '2023-03-09 11:50:54'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678326249
+        to: 1678326654
+  -
+    added:
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.autocapitalize: true
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.autocomplete: false
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.autocorrect: true
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.class: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.disabled: false
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.id: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.instructions: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.label: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.max: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.min: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.name: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.orientation: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.placeholder: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.readonly: false
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.requirable: false
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.size: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.step: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.tip: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.title: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.type: craft\fieldlayoutelements\AssetTitleField
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.warning: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.elements.0.width: 100
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.name: Content
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.fieldLayouts.8c540d66-12e5-4f0e-a6ba-8d3dd1296133.tabs.0.sortOrder: 1
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.handle: blog
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.hasUrls: true
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.name: Blog
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.settings.path: '@webroot/assets/blog'
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.sortOrder: 1
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.titleTranslationKeyFormat: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.titleTranslationMethod: null
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.type: craft\volumes\Local
+      volumes.30bbe58d-8143-44de-9280-5c9157e9fb32.url: '@web/assets/blog'
+    message: 'Save the “blog” volume'
+  -
+    added:
+      meta.__names__.30bbe58d-8143-44de-9280-5c9157e9fb32: Blog

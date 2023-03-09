@@ -1,0 +1,21 @@
+dateApplied: '2023-03-09 11:29:09'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678325332
+        to: 1678325349
+  -
+    added:
+      sites.20d47ea2-78fe-4b35-ae01-6068e35ecfc9.enabled: true
+    message: 'Save the “default” site'
+    changed:
+      sites.20d47ea2-78fe-4b35-ae01-6068e35ecfc9.name:
+        from: 'Pack Your Bags'
+        to: 'Fazer as Malas'
+  -
+    changed:
+      meta.__names__.20d47ea2-78fe-4b35-ae01-6068e35ecfc9:
+        from: 'Pack Your Bags'
+        to: 'Fazer as Malas'

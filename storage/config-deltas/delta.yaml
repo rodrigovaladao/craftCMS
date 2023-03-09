@@ -1,0 +1,27 @@
+dateApplied: '2023-03-09 18:56:59'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678352105
+        to: 1678352219
+  -
+    added:
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.fieldUid: 33111fe8-75a3-4377-8667-2f5db8204406
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.instructions: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.label: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.required: false
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.tip: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.type: craft\fieldlayoutelements\CustomField
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.warning: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.1.width: 100
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.fieldUid: 28efb222-5181-4e37-a36a-74f7125a7ddd
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.instructions: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.label: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.required: false
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.tip: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.type: craft\fieldlayoutelements\CustomField
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.warning: null
+      entryTypes.d12586f9-1835-4769-8510-0fa65ccac7af.fieldLayouts.5c3a9884-7673-4390-a4f9-0fbcc28edb5e.tabs.0.elements.2.width: 100
+    message: 'Save entry type “about”'

@@ -1,0 +1,15 @@
+dateApplied: '2023-03-09 12:00:57'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1678327244
+        to: 1678327257
+  -
+    added:
+      fieldGroups.a790ad74-dcaf-4181-9c9b-618164be689c.name: 'Blog Post Fields'
+    message: 'Save field group “Blog Post Fields”'
+  -
+    added:
+      meta.__names__.a790ad74-dcaf-4181-9c9b-618164be689c: 'Blog Post Fields'
